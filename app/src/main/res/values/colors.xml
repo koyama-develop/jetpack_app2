@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!--modern app color-->
+    <color name="light_blue">#27BDEA</color>
+    <color name="yellow">#f0f73c</color>
+    <color name="navy">#044474</color>
+    <color name="mos_green">#4e7e92</color>
+    <color name="light_purple">#9999ff</color>
+    <color name="light_green">#aeccd0</color>
+
 </resources>
